@@ -1,4 +1,24 @@
+# local only
+prompt.txt
+.claude/
 __pycache__/
 *.pyc
-prompt.txt
 ~$*
+
+# hackathon source files (kept on disk, not part of the project)
+02 - Sample Slide.pdf
+03 - Sample Slide.pdf
+Guidelines for the Participants  - Cyber AI Hackathon 2026.pdf
+Hackathon PPT Template.pptx
+
+# OpenClaw runtime files written into the workspace
+workspace/memory/
+workspace/MEMORY.md
+workspace/.openclaw/
+
+# planning files and old drafts (kept on disk, not on GitHub)
+explanation.md
+walkthrough.md
+response.md
+Doctor_Nexus_CyberAI_Hackathon.pptx
+local_run/
